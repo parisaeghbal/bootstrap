@@ -1,0 +1,26 @@
+@import "./setting.css";
+*{margin: 0;
+padding: 0;
+font-family: poppins;}
+
+
+.svg {
+  width: 122px;
+  height: 24.709px;
+}
+.container ul li .btn{
+    width: 185px;
+}
+.container ul li a{
+    font-family: poppins;
+}
+.col-10 .pricing-heading  .p{
+    width: 562px;
+}
+.pricing .col-8{
+    width: 1282px;
+}
+.pricing .col-8 .row .col-4{
+    width: 406px;
+    margin-left:12px;
+}
